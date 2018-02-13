@@ -1,0 +1,4 @@
+coinmarketcap
+gspread
+oauth2client
+poloniex
